@@ -300,10 +300,10 @@ The advanced use cases are as follow：
 
 ## ProGuard
 ```sh
--keep class com.luck.picture.lib.** { *; }
+-keep class com.comnaraeSoft.picture.lib.** { *; }
 
 // use Camerax
--keep class com.luck.lib.camerax.** { *; }
+-keep class com.comnaraeSoft.lib.camerax.** { *; }
 
 // use uCrop
 -dontwarn com.yalantis.ucrop**

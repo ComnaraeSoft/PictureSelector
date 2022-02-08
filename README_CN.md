@@ -304,10 +304,10 @@ PictureSelector.create(this)
 
 ## 混淆配置 
 ```sh
--keep class com.luck.picture.lib.** { *; }
+-keep class com.comnaraeSoft.picture.lib.** { *; }
 
 // 如果引入了Camerax库请添加混淆
--keep class com.luck.lib.camerax.** { *; }
+-keep class com.comnaraeSoft.lib.camerax.** { *; }
 	
 // 如果引入了Ucrop库请添加混淆
 -dontwarn com.yalantis.ucrop**

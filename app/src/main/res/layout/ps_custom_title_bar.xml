@@ -31,7 +31,7 @@
             android:gravity="center"
             android:orientation="horizontal">
 
-            <com.luck.picture.lib.widget.MarqueeTextView
+            <com.comnaraeSoft.picture.lib.widget.MarqueeTextView
                 android:id="@+id/ps_tv_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

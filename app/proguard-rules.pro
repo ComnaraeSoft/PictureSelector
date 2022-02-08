@@ -80,7 +80,7 @@
 }
 
 #PictureSelector
--keep class com.luck.picture.lib.** { *; }
+-keep class com.comnaraeSoft.picture.lib.** { *; }
 
 #glide
 -keep public class * implements com.bumptech.glide.module.GlideModule

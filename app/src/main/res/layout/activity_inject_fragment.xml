@@ -5,7 +5,7 @@
     android:background="@color/app_color_white">
 
 
-    <com.luck.picture.lib.widget.MediumBoldTextView
+    <com.comnaraeSoft.picture.lib.widget.MediumBoldTextView
         android:id="@+id/tvb_inject_fragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -16,7 +16,7 @@
         android:textColor="@color/ps_color_bd"
         android:textSize="14sp" />
 
-    <com.luck.picture.lib.widget.MediumBoldTextView
+    <com.comnaraeSoft.picture.lib.widget.MediumBoldTextView
         android:id="@+id/tvb_inject_result_fragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -29,7 +29,7 @@
         android:textSize="14sp" />
 
 
-    <com.luck.picture.lib.widget.MediumBoldTextView
+    <com.comnaraeSoft.picture.lib.widget.MediumBoldTextView
         android:id="@+id/tv_result"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
